@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+
+
+html {
+  font-family: "Inter";
+}
+
+@theme {
+  --color-primary: rgb(26, 26, 46);
+}
+
+:root {}
